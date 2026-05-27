@@ -111,6 +111,35 @@ Notes
 - Engagement metrics (likes/views) may not be fully available for all entries.
 - URLs are provided as stored at scraping time and may become unavailable over time.
 
+---
+
+## Run Preprocessing
+
+First install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then run preprocessing:
+
+```
+python preprocess.py
+```
+
+---
+
+Output
+
+Processed data will be saved in:
+
+```
+clean_dataset.json
+```
+
+---
+
+
 [Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach](https://arxiv.org/abs/2402.12272)
 
 ## Citation
