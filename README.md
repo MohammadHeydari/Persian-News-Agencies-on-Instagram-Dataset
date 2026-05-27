@@ -13,7 +13,6 @@ Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-base
 
 The repository contains multiple JSON files, each representing a single Instagram account:
 
----
 
 - bbcpersian.json
 - fars_news.json
@@ -23,8 +22,6 @@ The repository contains multiple JSON files, each representing a single Instagra
 
 
 Each file follows a similar structure:
-
----
 
 ## Data Schema
 
@@ -54,23 +51,6 @@ Each account contains a list of posts under:
 
 ```json
 "posts": []
-
----
-
-Paper: Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach
-
-## Citation
-
-If you find our work useful, please cite our paper:
-
-```bibtex
-@article{heydari2024analysis,
-  title={Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach},
-  author={Heydari, Mohammad and Teimourpour, Babak},
-  journal={arXiv preprint arXiv:2402.12272},
-  year={2024}
-}
-
 ```
 
 Each post includes:
