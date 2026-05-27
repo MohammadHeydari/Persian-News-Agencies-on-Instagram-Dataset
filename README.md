@@ -5,7 +5,7 @@ The dataset includes profile metadata and posts information such as captions, en
 
 ## Paper
 
-[Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach](https://arxiv.org/abs/2402.12272)
+Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach [arxiv](https://arxiv.org/abs/2402.12272) | [IJWR](https://ijwr.usc.ac.ir/article_186781.html) | [RG](https://www.researchgate.net/publication/373925598_Analysis_of_Persian_News_Agencies_on_Instagram_A_Words_Co-occurrence_Graph-based_Approach)
 
 ---
 
